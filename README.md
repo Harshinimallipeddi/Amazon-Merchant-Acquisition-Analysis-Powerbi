@@ -29,7 +29,7 @@ Handling Missing Values: Address gaps and inconsistencies in the data.
 Data Type Correction: Ensure all columns are in the appropriate format for accurate analysis.
 Data Standardization: Harmonize data formats and values for consistency.
 ### Dashboard Design
-The Power BI dashboard is structured into two main pages, each serving a distinct purpose:
+The Power BI dashboard is structured as :
 
 ###### 1. Overall Analysis Page
 This page provides a high-level overview of key metrics and trends:
@@ -43,18 +43,9 @@ Charts and Visualizations:
 Bar Chart: Illustrates the count of seller brands for each seller.
 Pie Chart: Represents the distribution of brands across different sellers.
 Line Chart: Tracks the trend of ratings over time.
-Stacked Column Chart: Displays product counts segmented by category.
 Treemap: Visualizes the distribution of seller brands in a hierarchical manner.
-###### 2. Detailed Analysis Page (Based on Demographics)
-This page delves into demographic-specific insights:
 
-Demographic Analysis: Breaks down data based on demographic variables such as location.
-KPIs: Similar to the Overall Analysis page but tailored to demographic segments.
-Charts and Visualizations:
-Demographic Distribution: Visual representation of seller data segmented by demographic factors.
-Ratings Analysis: Examines ratings within different demographic categories.
-Product Counts by Demographic: Analyzes product counts across various demographic segments.
-Tools and Techniques
+### Tools and Techniques
 Power BI: Used for building and managing the dashboard, creating interactive visualizations, and integrating data.
 Power Query Editor: Utilized for cleaning and transforming data before visualization.
 ### Key Features
