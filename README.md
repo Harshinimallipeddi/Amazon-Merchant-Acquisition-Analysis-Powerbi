@@ -1,4 +1,4 @@
-# Harshinimallipeddi-Amazon-Merchant-Acquisition-Analysis
+# Amazon-Merchant-Acquisition-Analysis
 
 ### Project Description
 This project focuses on developing a dynamic Power BI dashboard to analyze and visualize seller data from an e-commerce platform. The objective is to create a comprehensive tool that provides insights into seller performance, product distribution, and customer ratings, both overall and segmented by demographics. The project leverages Power BI’s powerful data visualization and analytical capabilities to transform raw data into actionable insights.
